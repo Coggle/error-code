@@ -1,0 +1,25 @@
+{
+  "name": "error-code",
+  "version": "0.0.1",
+  "description": "Adds a code() method to javascript's Error class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coggle/error-code.git"
+  },
+  "keywords": [
+    "error",
+    "logging",
+    "status code"
+  ],
+  "author": "Andy Pritchard <andy@coggle.it>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coggle/error-code/issues"
+  },
+  "homepage": "https://github.com/coggle/error-code",
+  "dependencies": {}
+}
